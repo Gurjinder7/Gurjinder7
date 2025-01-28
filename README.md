@@ -1,6 +1,11 @@
 ## Hi there 👋
+
 ### Some Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjinder7&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=gurjinder7&show_icons=true&theme=dark">
+
+### Catch me at:
+Email: dev.gurjinder@gmail.com
 
 <!--
 **Gurjinder7/Gurjinder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
