@@ -1,12 +1,15 @@
 ## Hi there 👋
 
-### Some Stats
+### Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjinder7&layout=compact&theme=dark" />
 <img src="https://github-readme-stats.vercel.app/api?username=gurjinder7&show_icons=true&theme=dark">
+<img src="https://nirzak-streak-stats.vercel.app/?user=gurjinder7&theme=dark&hide_border=false">
+
+###  Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=gurjinder7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### Catch me at:
 Email: dev.gurjinder@gmail.com
-
 <!--
 **Gurjinder7/Gurjinder7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
