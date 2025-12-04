@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-### Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjinder7&layout=compact&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api?username=gurjinder7&show_icons=true&theme=dark">
-<img src="https://nirzak-streak-stats.vercel.app/?user=gurjinder7&theme=dark&hide_border=false">
-
-###  Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gurjinder7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- I can work on all kinds of UI.
+- I love CSS!
+- My languages are TypeScript, JavaScript, Go, Python, <Suggest one! -  Rust, C#, Zig>
+- I am fascinated with how we have made particles of Sand to let us do all the amazing things!
+- I am looking into being good at deeper levels of computers.
+- I am learning Node.js and Golang with Microservices, Docker, and pipelines all included.
+- I am happy to collaborate on a project or any opportunity that comes knocking.
+  
 
 ### Catch me at:
 Email: dev.gurjinder@gmail.com
